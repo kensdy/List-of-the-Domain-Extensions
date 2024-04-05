@@ -1,5 +1,7 @@
 [Português](README_pt.md) | English
 
+Visit the website, where you can view the JSON, download it, and search for data in it [here](https://kensdy.github.io/List-of-the-Domain-Extensions/index.html).
+
 # List of Domain Extensions
 
 This repository contains a JSON file named `domain_extensions.json`, which includes a detailed list of domain extensions. The JSON is based on the list provided by the website [iana.org](https://www.iana.org/domains/root/db).
