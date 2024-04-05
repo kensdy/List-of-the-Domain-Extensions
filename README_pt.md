@@ -1,3 +1,5 @@
+Português | [English](README.md)
+
 # List-of-the-Domain-Extensions
 Este repositório contém um arquivo JSON chamado `domain_extensions.json`, que inclui uma lista detalhada de extensões de domínio. O JSON é baseado na lista fornecida pelo site [iana.org](https://www.iana.org/domains/root/db).
 
